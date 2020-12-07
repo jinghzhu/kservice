@@ -1,6 +1,6 @@
 # kservice
 
-Welcome to kservice, which is a simple api interface to launch the command in [Kubernetes](https://kubernetes.io/). 
+Welcome to kservice, which is a simple api interface to run the command in [Kubernetes](https://kubernetes.io/). 
 
 
 ## How to contribute
